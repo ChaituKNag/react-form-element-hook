@@ -1,6 +1,6 @@
 {
   "name": "react-form-element-hook",
-  "version": "0.0.0--BETA03",
+  "version": "0.0.0--BETA05",
   "description": "This is a Custom Hook created in React to be used as a helper to improve handling of input fields.",
   "main": "index.js",
   "scripts": {

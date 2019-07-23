@@ -21,7 +21,7 @@ yarn add react-form-element-hook
 Just use the custom hook to create variables that you can pass on the actual input fieds and in other ways to fulfil your form input fields' functionalities.
 
 ```javascript
-import {} from 'react-form-element-hook';
+import { useReactFormElement } from 'react-form-element-hook';
 
 function Component() {
     const [ref, value, isValid] = useReactFormElement();
