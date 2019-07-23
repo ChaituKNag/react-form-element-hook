@@ -1,7 +1,7 @@
 {
   "name": "react-form-element-hook",
-  "version": "0.0.0--BETA02",
-  "description": "",
+  "version": "0.0.0--BETA03",
+  "description": "This is a Custom Hook created in React to be used as a helper to improve handling of input fields.",
   "main": "index.js",
   "scripts": {
     "build": "babel src --out-file index.js"
@@ -10,9 +10,9 @@
     "type": "git",
     "url": "git+https://github.com/ChaituKNag/react-form-element-hook.git"
   },
-  "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "keywords": ["react", "hooks", "form", "element"],
+  "author": "Naga Chaitanya Konada",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/ChaituKNag/react-form-element-hook/issues"
   },
